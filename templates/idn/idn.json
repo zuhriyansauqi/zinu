@@ -1,0 +1,26 @@
+{
+  "name": "idn",
+  "version": 1,
+  "background": "image.jpg",
+  "objects": [{
+      "type": "image",
+      "width": 1080,
+      "height": 1920,
+      "x": 0,
+      "y": 0,
+      "value": "idn.png"
+    },
+    {
+      "type": "text",
+      "width": 916,
+      "height": 0,
+      "x": 82,
+      "y": -220,
+      "value": "10 Potret Han Bo Reum, Gamer Anggung dan Memesona di KDrama Level Up",
+      "font": "fonts/Poppins-Bold.ttf",
+      "size": 48.0,
+      "lineSpacing": 78.0,
+      "wordWrap": 26
+    }
+  ]
+}
